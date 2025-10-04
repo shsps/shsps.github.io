@@ -1,4 +1,4 @@
-name: shsps.github.io
+name: Deploy Vue app to GitHub Pages
 
 on:
   push:
