@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t}from"./index-CyjKry6D.js";const a={},c={class:"home-page-layout"};function s(_,n,r,p,d,f){return t(),o("div",c," 這是首頁還沒想到放甚麼 ")}const l=e(a,[["render",s],["__scopeId","data-v-dbeaf15c"]]);export{l as default};

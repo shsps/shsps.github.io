@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as s,a as c,r as a}from"./index-CyjKry6D.js";const n={},r={class:"home-layout"};function _(p,d,i,m,f,l){const e=a("RouterView");return t(),s("div",r,[c(e)])}const $=o(n,[["render",_],["__scopeId","data-v-7b277f91"]]);export{$ as default};
