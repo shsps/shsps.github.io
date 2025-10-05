@@ -5,6 +5,11 @@ on:
     branches: [ master ]   # 當 main 分支有 push 時就會觸發
   workflow_dispatch:     # 允許手動觸發
 
+permissions:
+  actions: read
+  contents: read
+  security-events: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
